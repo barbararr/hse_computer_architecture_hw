@@ -63,7 +63,7 @@ int main(int argc, char* argv[]) {
 
     // Остановка времени.
     end = clock();
-    double all_time = static_cast<double>(end - start) / CLOCKS_PER_SEC;
+    double all_time = (double)(end - start) / CLOCKS_PER_SEC;
     // Вывод времени.
     printf("Total time: %lf seconds\n", all_time);
     printf("Stop\n");
