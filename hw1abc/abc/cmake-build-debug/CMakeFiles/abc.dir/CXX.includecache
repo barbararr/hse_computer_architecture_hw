@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/user/CLionProjects/abc/diagonalMatrix.h
+random.h
+/home/user/CLionProjects/abc/random.h
+stdexcept
+-
+
+/home/user/CLionProjects/abc/lowerTriangularMatrix.h
+random.h
+/home/user/CLionProjects/abc/random.h
+stdio.h
+-
+
+/home/user/CLionProjects/abc/matrix.cpp
+matrix.h
+/home/user/CLionProjects/abc/matrix.h
+stdio.h
+-
+
+/home/user/CLionProjects/abc/matrix.h
+twoDimensionalArray.h
+/home/user/CLionProjects/abc/twoDimensionalArray.h
+diagonalMatrix.h
+/home/user/CLionProjects/abc/diagonalMatrix.h
+lowerTriangularMatrix.h
+/home/user/CLionProjects/abc/lowerTriangularMatrix.h
+stdexcept
+-
+
+/home/user/CLionProjects/abc/random.h
+cstdlib
+-
+
+/home/user/CLionProjects/abc/twoDimensionalArray.h
+random.h
+/home/user/CLionProjects/abc/random.h
+stdexcept
+-
+

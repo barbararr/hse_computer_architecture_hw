@@ -1,0 +1,11 @@
+Container contains 3 elements.
+0: It is two dimensional array: dimension = 2. Arithmetic mean = 2.60
+1: It is diagonal matrix: dimension = 2. Arithmetic mean = 5.70
+2: It is lower triangular matrix: dimension = 3. Arithmetic mean = 12.31
+
+
+Sorted container:
+Container contains 3 elements.
+0: It is lower triangular matrix: dimension = 3. Arithmetic mean = 12.31
+1: It is diagonal matrix: dimension = 2. Arithmetic mean = 5.70
+2: It is two dimensional array: dimension = 2. Arithmetic mean = 2.60

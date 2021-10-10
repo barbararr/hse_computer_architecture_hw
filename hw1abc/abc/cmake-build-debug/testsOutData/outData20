@@ -1,0 +1,45 @@
+Container contains 20 elements.
+0: It is diagonal matrix: dimension = 14. Arithmetic mean = 0.11
+1: It is diagonal matrix: dimension = 13. Arithmetic mean = 0.12
+2: It is lower triangular matrix: dimension = 19. Arithmetic mean = 0.79
+3: It is diagonal matrix: dimension = 4. Arithmetic mean = 0.38
+4: It is diagonal matrix: dimension = 9. Arithmetic mean = 0.17
+5: It is diagonal matrix: dimension = 19. Arithmetic mean = 0.08
+6: It is lower triangular matrix: dimension = 13. Arithmetic mean = 0.84
+7: It is two dimensional array: dimension = 5. Arithmetic mean = 1.55
+8: It is two dimensional array: dimension = 9. Arithmetic mean = 1.53
+9: It is diagonal matrix: dimension = 7. Arithmetic mean = 0.24
+10: It is diagonal matrix: dimension = 16. Arithmetic mean = 0.09
+11: It is diagonal matrix: dimension = 2. Arithmetic mean = 0.86
+12: It is lower triangular matrix: dimension = 18. Arithmetic mean = 0.77
+13: It is lower triangular matrix: dimension = 5. Arithmetic mean = 0.85
+14: It is lower triangular matrix: dimension = 6. Arithmetic mean = 0.89
+15: It is two dimensional array: dimension = 2. Arithmetic mean = 1.54
+16: It is diagonal matrix: dimension = 20. Arithmetic mean = 0.07
+17: It is lower triangular matrix: dimension = 3. Arithmetic mean = 0.93
+18: It is two dimensional array: dimension = 14. Arithmetic mean = 1.52
+19: It is two dimensional array: dimension = 18. Arithmetic mean = 1.50
+
+
+Sorted container:
+Container contains 20 elements.
+0: It is two dimensional array: dimension = 5. Arithmetic mean = 1.55
+1: It is two dimensional array: dimension = 2. Arithmetic mean = 1.54
+2: It is two dimensional array: dimension = 9. Arithmetic mean = 1.53
+3: It is two dimensional array: dimension = 14. Arithmetic mean = 1.52
+4: It is two dimensional array: dimension = 18. Arithmetic mean = 1.50
+5: It is lower triangular matrix: dimension = 3. Arithmetic mean = 0.93
+6: It is lower triangular matrix: dimension = 6. Arithmetic mean = 0.89
+7: It is diagonal matrix: dimension = 2. Arithmetic mean = 0.86
+8: It is lower triangular matrix: dimension = 5. Arithmetic mean = 0.85
+9: It is lower triangular matrix: dimension = 13. Arithmetic mean = 0.84
+10: It is lower triangular matrix: dimension = 19. Arithmetic mean = 0.79
+11: It is lower triangular matrix: dimension = 18. Arithmetic mean = 0.77
+12: It is diagonal matrix: dimension = 4. Arithmetic mean = 0.38
+13: It is diagonal matrix: dimension = 7. Arithmetic mean = 0.24
+14: It is diagonal matrix: dimension = 9. Arithmetic mean = 0.17
+15: It is diagonal matrix: dimension = 13. Arithmetic mean = 0.12
+16: It is diagonal matrix: dimension = 14. Arithmetic mean = 0.11
+17: It is diagonal matrix: dimension = 16. Arithmetic mean = 0.09
+18: It is diagonal matrix: dimension = 19. Arithmetic mean = 0.08
+19: It is diagonal matrix: dimension = 20. Arithmetic mean = 0.07
