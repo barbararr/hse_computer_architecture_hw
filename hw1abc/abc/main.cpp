@@ -65,7 +65,7 @@ int main(int argc, char* argv[]) {
     end = clock();
     double total_time = static_cast<double>(end - start) / CLOCKS_PER_SEC;
     // Вывод времени.
-    printf("Total time for program: %lf seconds\n", total_time);
+    printf("Total time: %lf seconds\n", total_time);
     printf("Stop\n");
     return 0;
 }
