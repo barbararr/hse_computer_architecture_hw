@@ -1,1 +1,1 @@
-./abc -n 8000 outData8000
+./abc2 -n 8000 outData8000
