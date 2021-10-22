@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/abc2.dir/main.cpp.o CMakeFiles/abc2.dir/container.cpp.o CMakeFiles/abc2.dir/matrix.cpp.o CMakeFiles/abc2.dir/twoDimensionalArray.cpp.o CMakeFiles/abc2.dir/diagonalMatrix.cpp.o CMakeFiles/abc2.dir/lowerTriangularMatrix.cpp.o -o abc2 
