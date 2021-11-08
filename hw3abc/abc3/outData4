@@ -1,0 +1,13 @@
+Container contains 4 elements.
+It is lower triangular matrix: dimension = 3. Arithmetic mean = 6.987777777777778
+It is two dimensional array: dimension = 2. Arithmetic mean = 60.5475
+It is diagonal matrix: dimension = 8. Arithmetic mean = 6.23625
+It is diagonal matrix: dimension = 10. Arithmetic mean = 0.54
+
+
+Sorted container:
+Container contains 4 elements.
+It is two dimensional array: dimension = 2. Arithmetic mean = 60.5475
+It is lower triangular matrix: dimension = 3. Arithmetic mean = 6.987777777777778
+It is diagonal matrix: dimension = 8. Arithmetic mean = 6.23625
+It is diagonal matrix: dimension = 10. Arithmetic mean = 0.54

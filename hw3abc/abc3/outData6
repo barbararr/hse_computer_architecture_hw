@@ -1,0 +1,17 @@
+Container contains 6 elements.
+It is two dimensional array: dimension = 2. Arithmetic mean = 7.5
+It is diagonal matrix: dimension = 6. Arithmetic mean = 1.1666666666666667
+It is lower triangular matrix: dimension = 3. Arithmetic mean = 3.888888888888889
+It is two dimensional array: dimension = 3. Arithmetic mean = 5.0
+It is two dimensional array: dimension = 3. Arithmetic mean = 7.0
+It is lower triangular matrix: dimension = 2. Arithmetic mean = 1.5
+
+
+Sorted container:
+Container contains 6 elements.
+It is two dimensional array: dimension = 2. Arithmetic mean = 7.5
+It is two dimensional array: dimension = 3. Arithmetic mean = 7.0
+It is two dimensional array: dimension = 3. Arithmetic mean = 5.0
+It is lower triangular matrix: dimension = 3. Arithmetic mean = 3.888888888888889
+It is lower triangular matrix: dimension = 2. Arithmetic mean = 1.5
+It is diagonal matrix: dimension = 6. Arithmetic mean = 1.1666666666666667

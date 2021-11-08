@@ -1,0 +1,45 @@
+Container contains 20 elements.
+It is lower triangular matrix: dimension = 5. Arithmetic mean = 14.66682768911125
+It is two dimensional array: dimension = 16. Arithmetic mean = 27.67083874831242
+It is two dimensional array: dimension = 17. Arithmetic mean = 24.504159193498513
+It is two dimensional array: dimension = 11. Arithmetic mean = 21.04531509027589
+It is lower triangular matrix: dimension = 2. Arithmetic mean = 8.283454511747477
+It is lower triangular matrix: dimension = 17. Arithmetic mean = 12.818000474814323
+It is two dimensional array: dimension = 4. Arithmetic mean = 24.567968050283
+It is lower triangular matrix: dimension = 5. Arithmetic mean = 13.59979894804989
+It is diagonal matrix: dimension = 2. Arithmetic mean = 7.35117741583984
+It is lower triangular matrix: dimension = 2. Arithmetic mean = 9.067570771420902
+It is diagonal matrix: dimension = 12. Arithmetic mean = 1.6165605505518517
+It is lower triangular matrix: dimension = 13. Arithmetic mean = 12.648252042817088
+It is two dimensional array: dimension = 18. Arithmetic mean = 24.143523471933584
+It is lower triangular matrix: dimension = 7. Arithmetic mean = 14.572805338020187
+It is lower triangular matrix: dimension = 2. Arithmetic mean = 22.273108092030327
+It is lower triangular matrix: dimension = 4. Arithmetic mean = 19.29088130861929
+It is lower triangular matrix: dimension = 6. Arithmetic mean = 11.353070482519014
+It is diagonal matrix: dimension = 20. Arithmetic mean = 1.1982675815213737
+It is lower triangular matrix: dimension = 14. Arithmetic mean = 14.870673350745863
+It is two dimensional array: dimension = 2. Arithmetic mean = 5.472310087137416
+
+
+Sorted container:
+Container contains 20 elements.
+It is two dimensional array: dimension = 16. Arithmetic mean = 27.67083874831242
+It is two dimensional array: dimension = 4. Arithmetic mean = 24.567968050283
+It is two dimensional array: dimension = 17. Arithmetic mean = 24.504159193498513
+It is two dimensional array: dimension = 18. Arithmetic mean = 24.143523471933584
+It is lower triangular matrix: dimension = 2. Arithmetic mean = 22.273108092030327
+It is two dimensional array: dimension = 11. Arithmetic mean = 21.04531509027589
+It is lower triangular matrix: dimension = 4. Arithmetic mean = 19.29088130861929
+It is lower triangular matrix: dimension = 14. Arithmetic mean = 14.870673350745863
+It is lower triangular matrix: dimension = 5. Arithmetic mean = 14.66682768911125
+It is lower triangular matrix: dimension = 7. Arithmetic mean = 14.572805338020187
+It is lower triangular matrix: dimension = 5. Arithmetic mean = 13.59979894804989
+It is lower triangular matrix: dimension = 17. Arithmetic mean = 12.818000474814323
+It is lower triangular matrix: dimension = 13. Arithmetic mean = 12.648252042817088
+It is lower triangular matrix: dimension = 6. Arithmetic mean = 11.353070482519014
+It is lower triangular matrix: dimension = 2. Arithmetic mean = 9.067570771420902
+It is lower triangular matrix: dimension = 2. Arithmetic mean = 8.283454511747477
+It is diagonal matrix: dimension = 2. Arithmetic mean = 7.35117741583984
+It is two dimensional array: dimension = 2. Arithmetic mean = 5.472310087137416
+It is diagonal matrix: dimension = 12. Arithmetic mean = 1.6165605505518517
+It is diagonal matrix: dimension = 20. Arithmetic mean = 1.1982675815213737

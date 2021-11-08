@@ -1,0 +1,25 @@
+Container contains 10 elements.
+It is two dimensional array: dimension = 2. Arithmetic mean = 1.5
+It is diagonal matrix: dimension = 3. Arithmetic mean = 0.6666666666666666
+It is lower triangular matrix: dimension = 2. Arithmetic mean = 1.5
+It is two dimensional array: dimension = 3. Arithmetic mean = 2.0
+It is diagonal matrix: dimension = 5. Arithmetic mean = 0.6
+It is lower triangular matrix: dimension = 4. Arithmetic mean = 0.625
+It is two dimensional array: dimension = 3. Arithmetic mean = 2.4444444444444446
+It is diagonal matrix: dimension = 10. Arithmetic mean = 0.51
+It is lower triangular matrix: dimension = 4. Arithmetic mean = 0.625
+It is two dimensional array: dimension = 1. Arithmetic mean = 1.0
+
+
+Sorted container:
+Container contains 10 elements.
+It is two dimensional array: dimension = 3. Arithmetic mean = 2.4444444444444446
+It is two dimensional array: dimension = 3. Arithmetic mean = 2.0
+It is two dimensional array: dimension = 2. Arithmetic mean = 1.5
+It is lower triangular matrix: dimension = 2. Arithmetic mean = 1.5
+It is two dimensional array: dimension = 1. Arithmetic mean = 1.0
+It is diagonal matrix: dimension = 3. Arithmetic mean = 0.6666666666666666
+It is lower triangular matrix: dimension = 4. Arithmetic mean = 0.625
+It is lower triangular matrix: dimension = 4. Arithmetic mean = 0.625
+It is diagonal matrix: dimension = 5. Arithmetic mean = 0.6
+It is diagonal matrix: dimension = 10. Arithmetic mean = 0.51
